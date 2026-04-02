@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "1wUSmryYHiEK5LFy64kcl"
+uri = "file://artifacts/dental-clinic/public/images/hero.png"
+type = "image"
+title = "Modern Dental Clinic Hero"
+
+[[generated]]
+id = "kXbqTR-4riRK9Vb2HFTyH"
+uri = "file://artifacts/dental-clinic/public/images/team.png"
+type = "image"
+title = "Dental Team Portrait"
